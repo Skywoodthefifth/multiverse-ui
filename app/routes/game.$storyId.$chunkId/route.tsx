@@ -19,8 +19,8 @@ import { StoryChoice } from "~/models/story/StoryChoice";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Multiverse UI - Game" },
-    { name: "description", content: "Infinite Possibilities" },
+    { title: "Auto VG Gen - Demo" },
+    { name: "description", content: "Created for Weebs" },
   ];
 };
 

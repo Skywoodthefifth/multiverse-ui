@@ -1,61 +1,69 @@
-import { ActionFunctionArgs, type MetaFunction } from "@remix-run/node";
-import { Form, redirect, useNavigation } from "@remix-run/react";
+import { ActionFunctionArgs, LoaderFunctionArgs, type MetaFunction } from "@remix-run/node";
+import { Form, redirect, useLoaderData, useNavigation } from "@remix-run/react";
 import LoadingSpinner from "~/components/LoadingSpinner";
 import { getFirstStoryChunkId } from "~/db/stories";
+import allStoryData from '~/data/storyData'
+
+type Story = {
+  id: string;
+  title: string;
+};
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Multiverse UI" },
-    { name: "description", content: "Infinite Possibilities" },
+    { title: "Auto VG Gen" },
+    { name: "description", content: "Created for Weebs" },
   ];
 };
 
+export async function loader({ request }: LoaderFunctionArgs) {
+  return allStoryData;
+}
+
 export async function action({ request }: ActionFunctionArgs) {
-  const approach = (await request.formData()).get("approach");
-
-  const storyId =
-    approach === "baseline"
-      ? "d979223f-f4e2-11ee-b819-182649966cd4"
-      : "9fc0bb0c-c65b-11ef-a9b2-00155d7148ef";
-  const firstChunkId = await getFirstStoryChunkId(storyId);
-
+  const formData = await request.formData();
+  const storyId = formData.get("storyId");
+  
+  if (!storyId) {
+    throw new Error("Story ID is required");
+  }
+  
+  const firstChunkId = await getFirstStoryChunkId(storyId.toString());
   return redirect(`/game/${storyId}/${firstChunkId}`);
 }
 
 export default function Index() {
+  const stories = useLoaderData<typeof loader>();
   const navigation = useNavigation();
+  const isLoading = navigation.state === "loading";
 
   return (
     <div className="mx-auto h-screen w-screen flex-col px-16 text-slate-950 lg:w-4/5 lg:px-8 dark:text-slate-100">
       <div className="flex h-full w-full flex-col items-center justify-center">
         <h1 className="mb-8 text-center text-3xl font-bold md:text-4xl">
-          🌌 Multiverse of Greatness 🌠
+          (☞ﾟヮﾟ)☞ Auto VN Gen ☜(ﾟヮﾟ☜)
         </h1>
-        <div className="flex flex-col gap-8 md:flex-row">
-          <Form action="?index" method="POST" className="self-center">
-            <input type="hidden" name="approach" value="baseline" />
-            <button
-              className="rounded border-2 border-indigo-500 px-4 py-2 text-center text-2xl font-bold text-indigo-500 transition-all hover:border-indigo-700 hover:bg-indigo-700 hover:text-slate-50"
-              disabled={navigation.state === "loading"}
+        
+        <div className="w-full max-w-2xl space-y-4">
+          {stories.map((story) => (
+            <Form 
+              key={story.id}
+              action="?index" 
+              method="POST" 
+              className="w-full"
             >
-              {navigation.state === "loading" && (
-                <LoadingSpinner size="sm" position="inline" color="primary" />
-              )}{" "}
-              Best Baseline Story
-            </button>
-          </Form>
-          <Form action="?index" method="POST" className="self-center">
-            <input type="hidden" name="approach" value="proposed" />
-            <button
-              className="rounded border-2 bg-indigo-600 px-4 py-2 text-center text-2xl font-bold text-zinc-100 transition-all hover:border-indigo-700 hover:bg-indigo-700 hover:text-slate-50"
-              disabled={navigation.state === "loading"}
-            >
-              {navigation.state === "loading" && (
-                <LoadingSpinner size="sm" position="inline" color="primary" />
-              )}{" "}
-              Best Proposed Story
-            </button>
-          </Form>
+              <input type="hidden" name="storyId" value={story.id} />
+              <button
+                className="w-full rounded border-2 border-indigo-500 px-4 py-2 text-center text-xl font-bold text-indigo-500 transition-all hover:bg-indigo-600 hover:text-white hover:border-indigo-600 disabled:opacity-50"
+                disabled={isLoading}
+              >
+                {isLoading && (
+                  <LoadingSpinner size="sm" position="inline" color="primary" />
+                )}{" "}
+                {story.title}
+              </button>
+            </Form>
+          ))}
         </div>
       </div>
     </div>
