@@ -16,7 +16,7 @@ export async function action({ request }: ActionFunctionArgs) {
   const storyId =
     approach === "baseline"
       ? "d979223f-f4e2-11ee-b819-182649966cd4"
-      : "fff66562-f284-11ee-b947-00155d2625d3";
+      : "9fc0bb0c-c65b-11ef-a9b2-00155d7148ef";
   const firstChunkId = await getFirstStoryChunkId(storyId);
 
   return redirect(`/game/${storyId}/${firstChunkId}`);
