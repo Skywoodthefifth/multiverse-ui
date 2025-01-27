@@ -2893,4 +2893,2159 @@ export default [{
   ],
   "generated_by": "gemini-2.0-flash-exp",
   "approach": "proposed"
+},
+{
+    "id": "f8be69c0-d5ad-11ef-a7a4-dd58b67cfbb8",
+    "title": "Sakura Petals and Whispered Dreams",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama",
+      "slice-of-life",
+      "supernatural"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura Hill High School Rooftop",
+        "location": "School Rooftop",
+        "description": "A secluded rooftop with a breathtaking view of the town, cherry blossom trees surrounding the school create a pink cloud, especially beautiful in spring. Students often come here for peace and quiet, or to share secrets.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "The Cozy Cat Cafe",
+        "location": "Downtown Street",
+        "description": "A small, warm cafe filled with the aroma of coffee and the soft purring of cats. Sunlight streams through the window, illuminating the gentle chaos of cats roaming among customers.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "The Abandoned Shrine",
+        "location": "Edge of the Forest",
+        "description": "An old, weathered shrine hidden deep within a forest, partially overgrown with vines and moss. It has an aura of forgotten magic and a hint of mystery.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "Summer Festival Grounds",
+        "location": "Town Square",
+        "description": "The town square buzzes with energy during the summer festival. Colorful lanterns illuminate the stalls, and the air is filled with laughter, the sound of taiko drums and delicious street food.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "Protagonist's Home",
+        "location": "Residential Area",
+        "description": "A modest but welcoming traditional Japanese house. The living room features tatami mats and a low table, offering a space for relaxation and reflection. Sunlight pours in through shoji screens.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A transfer student known for his kind nature and artistic talent, he's trying to find his place in the new school and town. He carries a sketchbook everywhere and is often lost in thought.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Short, messy dark hair",
+          "Warm brown eyes",
+          "Often wears a light blue jacket",
+          "Has a gentle smile"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Sakura",
+        "last_name": "Kinoshita",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Love Interest",
+        "background": "A bright and cheerful girl, the most popular student at school. However, she has a mysterious side and a hidden dream she keeps from everyone else. She's known for her infectious laugh.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Long, flowing pink hair",
+          "Sparkling green eyes",
+          "Always wears a small hairpin with a cherry blossom",
+          "Has a graceful posture"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Ren",
+        "last_name": "Takahashi",
+        "species": "Kitsune",
+        "age": "Appears 18 (Actual age unknown)",
+        "gender": "Male",
+        "role": "Mysterious Friend",
+        "background": "A mysterious young man who seems to know more than he lets on. He frequents the abandoned shrine and has a calm and aloof demeanor, but secretly enjoys helping others.",
+        "place_of_birth": "Unknown",
+        "physical_appearance": [
+          "Silver hair",
+          "Sharp amber eyes",
+          "Often wears traditional clothing with fox patterns",
+          "Has a playful but enigmatic smile"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Aoi",
+        "last_name": "Nakamura",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "Best Friend",
+        "background": "Haruki's first friend in his new school. She is energetic, loves gossip and is fiercely loyal. She works at the cat cafe and has a soft spot for all the cats.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Short, bright blue hair",
+          "Big, expressive brown eyes",
+          "Wears casual, fashionable clothes",
+          "Has a contagious laugh"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Kenji",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Rival",
+        "background": "A popular, athletic student with a competitive streak. He has a crush on Sakura and is jealous of Haruki's growing closeness with her. He often acts arrogant to mask his insecurities.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Dark spiky hair",
+          "Intense dark eyes",
+          "Usually wears his school uniform",
+          "Has a confident posture"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki, a transfer student, arrives in a quaint town famous for its cherry blossoms. He quickly becomes entangled in the lives of Sakura, a popular girl with a secret, and Ren, a mysterious young man tied to a forgotten shrine. As Haruki navigates the challenges of his new life, romance blossoms, hidden secrets are unveiled, and he discovers that the town holds more than just beautiful scenery. He and his friends encounter supernatural events and they all discover that there are bonds beyond what they thought possible.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki transfers to Sakura Hill High and befriends Aoi. He meets Sakura and finds himself drawn to her. Haruki begins to unravel some of the mysteries surrounding the town with the help of his friends while learning his way around.",
+        "character_ids": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Haruki starts to grow closer with Sakura. He discovers more about her and her secret dream. He starts getting caught up in more strange events and seeks guidance from the mysterious Ren at the abandoned shrine. The summer festival provides a chance for the group to connect.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "scene_ids": [
+          3,
+          4
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "The supernatural elements escalate as Haruki confronts his fears and the truth about Sakura and Ren. The main characters must work together to find their desired outcome. The choices made determine the fate of both their relationships and the town.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1,
+          3,
+          5
+        ]
+      }
+    ],
+    "beginning": "The train rattled to a stop, and Haruki stepped onto the platform, a sketchbook clutched in his hand. Cherry blossom petals danced in the gentle breeze, painting the small town in hues of pink. 'Sakura Hill,' he whispered, a mix of anticipation and nervousness fluttering in his chest.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki and Sakura confess their feelings, and together, they promise to protect the town and its secrets. Their romance blossoms fully, and they vow to pursue their dreams, hand-in-hand."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki chooses to focus on his friendship with Aoi, becoming a pillar of support as she pursues her goals. They create a new chapter in their lives as close friends, ready for new adventures."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki decides to leave the town, feeling overwhelmed by the supernatural events. He carries the memories and lessons learned with him as he seeks a different path. He is left with a sense of longing and wondering what could have been."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+  },
+{
+    "id": "793d7e52-d5d9-11ef-8e05-dd58b67cfbb8",
+    "title": "Crimson Threads of Destiny",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura-lined High School Path",
+        "location": "Outside of Seika High School",
+        "description": "A picturesque path lined with cherry blossom trees, leading to the entrance of Seika High School. Sunlight filters through the delicate pink petals, creating dappled patterns on the ground. Students can be seen chatting and laughing as they make their way to school.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "Seika High School Rooftop",
+        "location": "Top of Seika High School",
+        "description": "A wide, open space with a low railing. A few benches and potted plants are scattered about. It offers a panoramic view of the town below, making it a popular spot for students to unwind and gather.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "The Cozy Cafe 'Komorebi'",
+        "location": "Downtown area",
+        "description": "A small, warm cafe with vintage decor, soft lighting and the aroma of coffee permeates the air. Patrons enjoy pastries and hot beverages, creating a relaxed and intimate atmosphere.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "Summer Festival Stage",
+        "location": "Local festival grounds",
+        "description": "A large wooden stage, decorated with colourful lanterns and streamers. The sound of traditional music and lively chatter fills the air as people gather to celebrate the summer festival.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "The Abandoned Shrine",
+        "location": "Edge of the city, secluded and overgrown",
+        "description": "An old, forgotten shrine overtaken by nature. Vines crawl up the worn wooden pillars and moss covers the stone steps. It exudes a mysterious and somber aura.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Ren",
+        "last_name": "Kaito",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A transfer student with a mysterious past, trying to start a new life. He is kind and reserved, but fiercely loyal to his friends.",
+        "place_of_birth": "Unknown",
+        "physical_appearance": [
+          "Short, messy black hair",
+          "Intense gray eyes",
+          "Usually wears a simple school uniform"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Aki",
+        "last_name": "Sakura",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Love Interest",
+        "background": "A cheerful and popular student, known for her bright personality and leadership skills. She is the head of the student council and a childhood friend of Ren.",
+        "place_of_birth": "Local City",
+        "physical_appearance": [
+          "Long, flowing pink hair",
+          "Big, sparkling green eyes",
+          "Often seen wearing cute accessories and school uniform"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Haru",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Best Friend",
+        "background": "Ren's first friend at Seika High. He is a laid-back and humorous character who is always there to offer support and a good laugh.",
+        "place_of_birth": "Local City",
+        "physical_appearance": [
+          "Short, spiky brown hair",
+          "Friendly brown eyes",
+          "Usually wears casual clothing"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Yuki",
+        "last_name": "Hoshino",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "Love Interest",
+        "background": "A quiet and introverted member of the school's literature club. She is incredibly intelligent and has a fondness for old stories and traditions.",
+        "place_of_birth": "Local City",
+        "physical_appearance": [
+          "Long, straight blue hair",
+          "Calm violet eyes",
+          "Usually seen with a book in hand and wearing glasses"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Kaito",
+        "last_name": "Miyazaki",
+        "species": "Human",
+        "age": "18",
+        "gender": "Male",
+        "role": "Rival",
+        "background": "The popular student council vice-president with an overbearing personality. He is competitive and seems to have a hidden agenda. A former friend of Aki.",
+        "place_of_birth": "Local City",
+        "physical_appearance": [
+          "Dark red hair",
+          "Sharp blue eyes",
+          "Wears the school uniform immaculately"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Ren Kaito transfers to Seika High School, seeking a fresh start. However, he soon finds himself intertwined in the lives of Aki Sakura, his childhood friend, and her inner circle. As Ren navigates through new friendships and blossoming romances, a mysterious past and a series of unexpected events surface, leading him to uncover a secret that connects everyone and tests the strength of their bonds. Through a mix of comedic antics, heartwarming moments, and deep emotional struggles, Ren must confront his past and make choices that will shape the future of those around him.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Ren's arrival at Seika High sets off a series of events that lead him to reconnect with Aki and make new friends. He begins to settle into his new environment, while also noticing strange occurrences around the school. The group dynamic begins to form with comedy and light-hearted moments.",
+        "character_ids": [
+          1,
+          2,
+          3
+        ],
+        "scene_ids": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "The characters' relationships deepen, and romantic interests start to emerge. Ren learns more about his past and the mysteries around the school. The tone shifts to a more dramatic atmosphere as Kaito's intentions and Yuki's background get more attention. The group bond is tested as secrets begin to surface.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          3,
+          4
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "The climax unfolds as Ren and his friends must confront the truth behind the secrets and make crucial decisions. Emotional stakes are high, and the final resolution depends on the choices made. The group must come together to overcome a great challenge at the abandoned shrine.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          5
+        ]
+      }
+    ],
+    "beginning": "The first rays of morning sun peek through the cherry blossoms as Ren Kaito walked towards the gates of Seika High. A mix of anxiety and anticipation fluttered in his chest. This was his chance for a new beginning, a clean slate. As he stepped onto the school grounds, a familiar voice called out, 'Ren?! Is that really you?'",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Ren confesses his feelings to Aki, and they embark on a loving relationship, with everyone else in the main group finding their own paths. Ren has overcome his past, finding peace and happiness. They look forward to a bright future."
+      },
+      {
+        "id": 2,
+        "ending": "Ren finds he shares a deep connection with Yuki. They decide to take a chance on each other, learning to come out of their shells. Together with their friends they start a new chapter, bound together by their shared experiences and their love of literature."
+      },
+      {
+        "id": 3,
+        "ending": "The bonds between the group fracture due to the secrets revealed. Ren decides to take a new, solo path, leaving for a faraway place in search of answers about his past. Though bittersweet, he understands he must find his own way."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "dc1615f6-d6f1-11ef-98df-fd2ac6df63fa",
+    "title": "Sakura Petals and Secret Passwords",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura-lined School Path",
+        "location": "Outside the school gates",
+        "description": "A picturesque path lined with cherry blossom trees in full bloom. Petals gently fall, creating a pink canopy. The air is sweet and tinged with the anticipation of a new school year.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "Classroom 2-A",
+        "location": "Inside the school building",
+        "description": "A standard Japanese classroom with wooden desks, a blackboard, and large windows looking out onto the school grounds. Sunlight streams in, illuminating dust motes.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "The Rooftop Garden",
+        "location": "Top of the school building",
+        "description": "A hidden garden on the school roof, filled with potted plants, a small koi pond, and a weathered wooden bench. It offers a secluded spot with panoramic views.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "The Local Cafe - 'Komorebi'",
+        "location": "Off-campus near the shopping district",
+        "description": "A cozy cafe with warm lighting, comfortable seating, and the aroma of freshly brewed coffee.  A quiet place for students to study or chat.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "The Summer Festival Grounds",
+        "location": "Local shrine grounds",
+        "description": "A vibrant and bustling festival site during a summer evening. Lanterns hang above, illuminating food stalls, game booths, and crowds of people.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A somewhat shy and introverted student with a hidden talent for coding. He's starting his second year and hopes to have a less eventful year than the last.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Short, dark messy hair",
+          "Brown eyes",
+          "Slightly above average height",
+          "Usually wears glasses"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Aoi",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Love Interest",
+        "background": "A popular and outgoing girl who is secretly a skilled hacker.  She transfers into Haruki's class at the start of the year. She always seems to be looking for a challenge or adventure.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Long, light brown hair often tied into a ponytail",
+          "Bright green eyes",
+          "Energetic demeanor",
+          "Usually wears fashionable but comfortable clothes"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Kenji",
+        "last_name": "Yamada",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Best Friend",
+        "background": "Haruki's childhood friend.  He is very loyal, a bit of a goofball, and enjoys making everyone laugh. He always seems to be getting himself into some sort of trouble, even if it is well intentioned.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Spiky, light brown hair",
+          "Blue eyes",
+          "Tall and athletic build",
+          "Often wearing a mischievous smile"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Yumi",
+        "last_name": "Nakamura",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Rival/Friend",
+        "background": "A highly competitive and intelligent student who is the top of her class. She has a strong sense of duty and is quick to express her opinion, but is ultimately a very caring person. She is not initially fond of Aoi.",
+        "place_of_birth": "Osaka",
+        "physical_appearance": [
+          "Straight, black hair pulled into a tight bun",
+          "Sharp brown eyes",
+          "Often seen with a serious expression",
+          "Wears a neat school uniform"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Ryo",
+        "last_name": "Hayashi",
+        "species": "Human",
+        "age": "18",
+        "gender": "Male",
+        "role": "Mentor/Older Student",
+        "background": "An older student known for being kind, dependable, and a bit of a computer whiz. He is working in the school's computer lab, and often helps students with any problems they might have.",
+        "place_of_birth": "Hokkaido",
+        "physical_appearance": [
+          "Neatly combed, dark gray hair",
+          "Calm brown eyes",
+          "Kind smile",
+          "Always wears a light lab coat"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki Tanaka, a second-year high school student, leads a quiet life until Aoi Sato, a mysterious transfer student with a knack for coding, appears in his class. She brings with her a series of encrypted messages and a hidden world of secrets related to a local urban legend about a hidden network within the school. As they try to decipher the passwords, Haruki and Aoi navigate school life, rivalry with classmate Yumi, help from their friends Kenji, and guidance from Ryo. The game focuses on the growth of their relationship as they unearth the secrets of the network and discover their own feelings in the process.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki's second year begins with the arrival of Aoi, the new transfer student. They meet under the sakura blossoms and discover they have a shared passion for computers. They find a cryptic message during class, leading them to a possible mystery.  Their relationship is complicated by the introduction of a rival, Yumi, who isn't a fan of the new transfer student.  They spend their time exploring the school and discussing the message.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "scene_ids": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "The search for the network's passwords takes Haruki and Aoi to the school rooftop garden.  They continue working together, their feelings for each other growing stronger.  The rivalry with Yumi continues, but Yumi is beginning to soften towards them.  Kenji and Ryo provide support and hints while encouraging their friends.  The cafe \"Komorebi\" becomes their place to meet and plan.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          3,
+          4
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "Haruki and Aoi discover the hidden network during the summer festival.  The final password is found, revealing the truth behind the legend.  They confess their true feelings for each other, but it is dependent on their previous choices which ending they receive.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          5
+        ]
+      }
+    ],
+    "beginning": "The sakura blossoms fell like pink snow as Haruki walked to school, the beginning of a new school year. He was hoping it wouldn't be as eventful as the last, but the feeling was short-lived as he spotted a new face waiting near the school gates. A girl with bright green eyes and an even brighter smile.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki and Aoi successfully decipher all the codes, revealing the hidden network to be a harmless community of coding enthusiasts. They confess their love for each other, and their relationship blossoms."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki and Aoi decipher most of the codes, finding a treasure chest of old computer equipment left by the school's founder. They never quite confess their feelings but their bond continues to grow."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki and Aoi are unable to decipher the final code. They still develop a close friendship, but never confess any deeper feelings. Yumi softens and the group of them become good friends for the remainder of their school years."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "fae44b5d-d7f9-11ef-b099-00155d46f687",
+    "title": "Sakura Dreams: A Springtime Melody",
+    "genre": "japanese visual novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama",
+      "friendship",
+      "self-discovery"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura Blossom Park",
+        "location": "Outside the protagonist's high school",
+        "description": "A beautiful park filled with cherry blossom trees in full bloom, creating a tunnel of pink. Benches are scattered around, and the air is filled with the sweet fragrance of the flowers. It's a popular spot for students to relax after school.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "School Rooftop",
+        "location": "On top of the school building",
+        "description": "A secluded area with a view of the city. It's often used by students seeking quiet time. The rooftop is fenced, with a few scattered benches and potted plants.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "Summer Festival Grounds",
+        "location": "A bustling marketplace",
+        "description": "A vibrant night market filled with food stalls, game booths, and colorful lanterns. The air is filled with laughter, music, and the delicious smell of street food. It is very crowded, and fireworks light up the night sky.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "Caf\u00e9 'Komorebi'",
+        "location": "A cozy caf\u00e9 near the school",
+        "description": "A small, warm caf\u00e9 with wooden decor and soft lighting. There are bookshelves filled with manga and novels. The aroma of coffee and baked goods fills the air. It's a popular hangout spot for students.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "The Shrine on the Hill",
+        "location": "A historical shrine overlooking the city",
+        "description": "An old, peaceful shrine surrounded by trees. It is a calm place to reflect. The top of the hill offers a breathtaking view of the city, especially beautiful at sunrise.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Tanaka",
+        "species": "human",
+        "age": "17",
+        "gender": "male",
+        "role": "Protagonist",
+        "background": "A second-year high school student, struggling to decide on his future. He's introverted, kind-hearted, but often indecisive.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Short, messy black hair",
+          "Brown eyes",
+          "Usually seen in his school uniform",
+          "Slightly built"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Aika",
+        "last_name": "Sato",
+        "species": "human",
+        "age": "17",
+        "gender": "female",
+        "role": "Childhood friend and love interest",
+        "background": "Haruki's childhood friend and classmate. Cheerful, energetic, and popular, she often teases Haruki but cares for him deeply.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Long, wavy brown hair",
+          "Bright green eyes",
+          "Often wears colorful clothing",
+          "Athletic build"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Ren",
+        "last_name": "Kimura",
+        "species": "human",
+        "age": "18",
+        "gender": "male",
+        "role": "Rival/Friend",
+        "background": "A talented and charismatic third-year student. He is a skilled musician and a bit of a flirt. He has a mysterious aura surrounding him.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Sleek silver hair",
+          "Sharp blue eyes",
+          "Often seen with a guitar case",
+          "Tall and slender"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Yumi",
+        "last_name": "Nakamura",
+        "species": "human",
+        "age": "16",
+        "gender": "female",
+        "role": "Younger sister figure/Friend",
+        "background": "A first-year student and the student council president. She is intelligent, organized, and a little shy. She admires Haruki and sees him as a good friend.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Short, bobbed blonde hair",
+          "Large, curious brown eyes",
+          "Often wears her school uniform neatly",
+          "Petite build"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Kohaku",
+        "last_name": "Mizuki",
+        "species": "human",
+        "age": "17",
+        "gender": "female",
+        "role": "Mysterious New Transfer Student",
+        "background": "A new transfer student who is very quiet and reserved. She has a talent for art and a mysterious past. She seems to be drawn to Haruki and his friends.",
+        "place_of_birth": "Unknown",
+        "physical_appearance": [
+          "Long, straight black hair often covering her face",
+          "Deep violet eyes",
+          "Usually wears dark, modest clothing",
+          "Slender build"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki, a second-year high school student, is caught between the pressures of deciding his future and navigating his feelings for his childhood friend, Aika. When a new transfer student, Kohaku, arrives, Haruki's world is thrown into further confusion. He must juggle his feelings, friendships, and personal ambitions, while trying to uncover the mysteries surrounding Kohaku and her connection to his past. Set against the backdrop of blooming cherry blossoms and summer festivals, Haruki's journey is filled with romance, comedy, and drama as he learns about himself and the true meaning of connection.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki begins a new school year, struggling with his future and his feelings for Aika. He tries to balance his studies, time with friends, and an increasing sense of confusion. Kohaku's sudden arrival disrupts his normal routine. He begins to notice how Kohaku is drawn to him, but he isn't sure of her intentions. He also notices how Aika is also acting strange around him. Haruki experiences some light-hearted moments with his friends, but also a growing sense of unease.",
+        "character_ids": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Haruki begins to develop a bond with Kohaku, learning more about her mysterious past. He struggles with his feelings for her as well as his childhood friend Aika, creating tension within the group. Ren also becomes a more prominent character, sometimes aiding Haruki with his problems, but also challenging his feelings. The group explores the school festival and summer activities, offering moments of both levity and drama.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          5
+        ],
+        "scene_ids": [
+          2,
+          3,
+          5
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "Haruki faces a turning point as he decides his future, and confronts his feelings for Aika and Kohaku. Secrets are revealed about the past, leading to a climax of emotions. He is forced to make choices that affect everyone around him. The chapter culminates in a heartfelt resolution that reveals which relationship he decides to invest his time in, or his focus in his own future.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          5
+        ],
+        "scene_ids": [
+          1,
+          5
+        ]
+      }
+    ],
+    "beginning": "The cherry blossoms were in full bloom, their petals falling like pink snow as Haruki walked towards his high school. He sighed, adjusting his backpack. It was the start of another school year, and the weight of his indecisiveness felt heavier than ever. He knew he needed to decide on his future career path soon, but every option seemed equally daunting. He was interrupted by Aika, who playfully bumped into him with a smile, \u201cHaruki, you\u2019re spacing out again! Let\u2019s go or we\u2019ll be late!\u201d",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki confesses his love for Aika, choosing to embrace his feelings for his childhood friend. He finds clarity in his future and decides to pursue a path that aligns with his dreams. Both Haruki and Aika decide to continue their journey together, strengthening their bonds."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki chooses Kohaku, drawn to her mysterious nature and their unique bond. He discovers a new sense of purpose, and they embark on a journey together to uncover their past. Aika is saddened, but comes to respect his decision and maintains her friendship with Haruki."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki prioritizes his own self-discovery, choosing to postpone any romance and dedicate himself to his goals and passions. He becomes more confident and independent, ultimately realizing the importance of individual growth. Aika and Kohaku are still his good friends, and while he does not choose either, he gains new strength from the relationships he maintains."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "4da8f64e-d88f-11ef-a15a-8c2546786a25",
+    "title": "Cafe Lumina: Whispers of the Heart",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Cafe Lumina",
+        "location": "A cozy, two-story cafe in a bustling city",
+        "description": "The cafe is bathed in warm, inviting light with the aroma of coffee and baked goods filling the air. Strings of fairy lights decorate the exposed brick walls, and mismatched tables and chairs create a relaxed, homey atmosphere. Sunlight streams in through large windows overlooking the street.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "The City Park",
+        "location": "A large, sprawling park in the heart of the city",
+        "description": "The park is a vibrant green oasis with pathways winding through flower gardens, towering trees, and a central pond. Benches offer respite for quiet reflection, and the sounds of laughter and birdsong fill the air. A charming bridge crosses a small stream.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "A Rooftop Garden",
+        "location": "The rooftop of an apartment building",
+        "description": "A hidden, serene garden bursting with potted plants, herbs, and fairy lights. The city skyline stretches out in the distance, creating a breathtaking view. A small wooden table and chairs provide a space for quiet conversation.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "The Local Festival",
+        "location": "A city street closed off for a festival",
+        "description": "A vibrant street festival, filled with colorful stalls selling food and crafts. The air is filled with the sounds of music, chatter, and laughter, and paper lanterns line the street, creating a festive atmosphere.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "The Seaside Promenade",
+        "location": "A walkway along the beach",
+        "description": "A long, scenic promenade along the ocean shore, with crashing waves, sandy beaches, and a calming sea breeze. The sounds of gulls and the rhythmic crashing of the waves create a serene atmosphere.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "20",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "Haruki is a kind and slightly introverted college student who works part-time at Cafe Lumina. He struggles with expressing his feelings but has a warm and compassionate heart. He has always been a bit shy around girls, but is willing to help anyone.",
+        "place_of_birth": "A small town near the coast",
+        "physical_appearance": [
+          "Messy dark brown hair",
+          "Warm brown eyes",
+          "Often seen wearing casual clothes and an apron when working"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Ami",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "20",
+        "gender": "Female",
+        "role": "Love Interest",
+        "background": "Ami is a cheerful and energetic artist who often visits Cafe Lumina for inspiration. She is outgoing and expressive, often drawing in her sketchbook and sharing her latest projects with those around her. She is known for her bright smile and bubbly personality, but is also sensitive.",
+        "place_of_birth": "The city where Cafe Lumina is located",
+        "physical_appearance": [
+          "Bright pink hair styled in a cute ponytail",
+          "Large, expressive green eyes",
+          "Always carrying a sketchbook and colored pencils"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Ren",
+        "last_name": "Kaito",
+        "species": "Human",
+        "age": "21",
+        "gender": "Male",
+        "role": "Love Interest",
+        "background": "Ren is a talented musician who occasionally performs at Cafe Lumina. He is mysterious and brooding, with a sharp wit and a hidden soft side. He tends to keep to himself but is kind to those he cares about. He also likes to practice on the rooftop garden.",
+        "place_of_birth": "A rural area outside the city",
+        "physical_appearance": [
+          "Long, silver hair often tied back",
+          "Sharp blue eyes",
+          "Usually wears dark clothes and carries a guitar case"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Yui",
+        "last_name": "Kimura",
+        "species": "Human",
+        "age": "22",
+        "gender": "Female",
+        "role": "Cafe Owner/Haruki's Friend",
+        "background": "Yui is the kind and supportive owner of Cafe Lumina. She is Haruki\u2019s childhood friend and has a strong, protective personality and can always read his feelings. She also likes to play matchmaker between her employees and customers.",
+        "place_of_birth": "Same town as Haruki",
+        "physical_appearance": [
+          "Short, neat brown hair",
+          "Kind hazel eyes",
+          "Often wears a comfortable blouse and skirt"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Kenji",
+        "last_name": "Nakamura",
+        "species": "Human",
+        "age": "20",
+        "gender": "Male",
+        "role": "Haruki's friend",
+        "background": "Kenji is Haruki's best friend and a very energetic college student, studying engineering. He is very supportive of Haruki and encourages him to be more confident with his feelings. He can also be a bit mischievous and loves to tease Haruki about his romantic interests.",
+        "place_of_birth": "Same city where Cafe Lumina is located",
+        "physical_appearance": [
+          "Short, spiky black hair",
+          "Energetic dark brown eyes",
+          "Usually seen wearing bright colors"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki, a shy college student working at the cozy Cafe Lumina, finds himself caught in a whirlwind of romance and self-discovery as he navigates relationships with the vibrant artist Ami and the mysterious musician Ren. Through their interactions, he must confront his own feelings and choose a path for his future while dealing with the everyday dramas of cafe life and his friends.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki's life at Cafe Lumina is a familiar routine until the arrival of Ami, whose vibrant personality brightens the cafe. She immediately takes an interest in Haruki. Meanwhile, Ren's occasional performances at the cafe introduce a different kind of charm. Haruki is pushed to face his own feelings and is pressured by Yui and Kenji to pick who he likes. Haruki is flustered, as he doesn't know his own feelings.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Haruki spends more time with Ami and Ren, going on outings to the city park and getting to know them on a deeper level. Ami shares her passion for art, while Ren reveals glimpses of his personal life. He becomes more conflicted as his relationships with both of them grow, each offering a different path for his future. His friends give him unsolicited advice, which stresses him out. Haruki is forced to think about how important these relationships are to him.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          2,
+          3
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "As the local festival approaches, Haruki must confront his true feelings. The festival and seaside outing are significant moments, revealing each character's hopes and fears. Haruki makes a choice that defines his path, experiencing moments of joy, sadness, and ultimately, a sense of growth and self-discovery. The chosen path will influence which ending the player gets.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          4,
+          5
+        ]
+      }
+    ],
+    "beginning": "The aroma of freshly brewed coffee filled the air as Haruki wiped down the counter at Cafe Lumina. Sunlight streamed through the windows, illuminating the dust motes dancing in the air. It was just another peaceful day at the cafe, or so he thought.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki confesses his feelings to Ami, and they embark on a passionate and artistic journey together, inspiring each other's creativity. The cafe becomes a hub for their shared projects and love."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki expresses his feelings to Ren, and they explore their connection through their shared love of music. Ren opens up about his past, and together they create a beautiful and harmonious life. The cafe becomes a stage for their performances and romance."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki realizes that he needs to focus on himself for a while and chooses not to pursue a relationship, yet. He continues to work at the cafe and cherish friendships, content with his current path while keeping an open mind for the future."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "8304eec1-d92a-11ef-9292-ec36fa9832f4",
+    "title": "Sakura Serenade: Echoes of the Heart",
+    "genre": "japanese visual novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama",
+      "slice-of-life"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura Hill Overlook",
+        "location": "A hill overlooking the town, famous for its cherry blossoms.",
+        "description": "A gently sloping hill covered in cherry blossom trees. Benches are placed strategically for viewing the town below, and the entire area is bathed in a soft pink light during spring. It's a popular spot for dates, picnics, and quiet contemplation.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "Amane High School Rooftop",
+        "location": "The roof of the high school, usually off-limits.",
+        "description": "A wide, open space surrounded by a low railing. From the rooftop, you can see the school grounds and some of the surrounding town. It's often used for after-school club activities or students looking for some peace and quiet.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "Akari's Family Cafe - 'Sweet Serenity'",
+        "location": "A cozy cafe located in the town's shopping district.",
+        "description": "A warm and inviting cafe filled with the aroma of coffee and pastries. It has comfortable seating, plants, and soft lighting. The walls are adorned with paintings and photographs, creating a homey atmosphere. It is a popular place for students to hangout or study.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "The Abandoned Shrine in the Forest",
+        "location": "A secluded shrine located deep within a nearby forest.",
+        "description": "A small, weathered shrine hidden among the trees. Moss covers the stones, and the paint is faded, making it seem forgotten by time. There's an air of mystery and slight sadness surrounding this place. It is rumored to have a spiritual presence.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "Summer Festival Stage",
+        "location": "The main stage set up for the town's annual summer festival.",
+        "description": "A large stage decorated with colorful lanterns and banners. It's surrounded by food stalls, game booths, and crowds of people enjoying the festival. The air is filled with music, laughter, and the sounds of celebration.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Kenji",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A transfer student with a passion for photography and a quiet disposition. He struggles to fit in at his new school, but secretly longs for genuine connections.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Short, messy black hair",
+          "Hazel eyes",
+          "Often seen with a camera around his neck",
+          "Usually wears a simple jacket and jeans"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Akari",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Childhood Friend / Love Interest",
+        "background": "A cheerful and energetic girl who runs her family's cafe. She's been friends with Kenji since they were children and is always looking out for him. She secretly harbors deeper feelings for him.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Long, brown hair often tied in a ponytail",
+          "Bright green eyes",
+          "Usually wears an apron or casual, stylish clothes",
+          "Always has a warm smile"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Yui",
+        "last_name": "Nakamura",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Rival / Love Interest",
+        "background": "The popular and studious class president. She's initially cold towards Kenji but begins to show a softer side as she learns about him. She is very competitive.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Short, neat black hair",
+          "Sharp blue eyes",
+          "Typically wears her school uniform neatly",
+          "Known for her serious and composed demeanor"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Haruki",
+        "last_name": "Yamada",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Best Friend / Comic Relief",
+        "background": "A goofy and supportive classmate, who quickly befriends Kenji. He's not the sharpest, but his intentions are always good. He tries to get others to loosen up.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Spiky, blonde hair",
+          "Brown eyes",
+          "Often wears bright and colorful clothing",
+          "Always seen with a big grin"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Mei",
+        "last_name": "Suzuki",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "Mysterious Junior",
+        "background": "A quiet and enigmatic girl who is a year younger than Kenji. She's often seen alone, and her motivations are unclear. She seems to have a connection to the abandoned shrine.",
+        "place_of_birth": "Local Town",
+        "physical_appearance": [
+          "Long, silver hair often covering one eye",
+          "Violet eyes",
+          "Typically wears a traditional school uniform with a dark shawl",
+          "Has a melancholic and distant aura"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Kenji Tanaka, a transfer student, arrives in a new town and is immediately drawn to the beauty of its cherry blossoms. He meets Akari, his childhood friend, and is introduced to the vibrant school life. As he explores his new surroundings, he discovers a hidden abandoned shrine, mysterious feelings and long-kept secrets among his classmates. He must navigate complex relationships and personal growth, all while trying to solve the mystery of the shrine and the deeper feelings that begin to bloom between him and the girls around him.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Kenji arrives in the new town and gets acquainted with Akari and Haruki. He discovers the Sakura Hill Overlook and the abandoned shrine in the forest. He begins to develop feelings for Akari, his childhood friend, but begins to also notice Yui. They all spend time at the cafe, and Yui becomes more competitive with Akari. Mei is spotted near the abandoned shrine, and she seems to be aware of something.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Kenji spends more time with Yui, which makes Akari jealous. He continues to try to get close with Mei, but she keeps her distance. Kenji is dragged to help with the preparation of the summer festival with Akari and Haruki. Yui helps with her competitive spirit to get things done. Kenji and Yui spend some time together on the school rooftop. Kenji sees something strange at the abandoned shrine and it begins to uncover it's secrets. Kenji struggles with his feelings for both Akari and Yui.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "The summer festival arrives, and tensions reach their peak. Kenji finally chooses between Akari or Yui. The truth about the shrine is revealed, and Mei's role in the mystery is uncovered. Kenji must make a final decision that will impact his future and the town.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1,
+          5
+        ]
+      }
+    ],
+    "beginning": "The train pulled into the station with a screech, signaling the start of a new chapter in Kenji's life. As he stepped onto the platform, the first thing that greeted him was the soft, delicate fragrance of cherry blossoms in full bloom. He clutched his camera, a familiar comfort amidst the uncertainty of this unfamiliar town. The promise of spring felt both exciting and a little daunting.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Kenji chooses to confess his feelings to Akari at the summer festival. They share a tender moment under the fireworks, solidifying their bond. The abandoned shrine is restored by the town, becoming a beautiful, peaceful place for all."
+      },
+      {
+        "id": 2,
+        "ending": "Kenji decides to pursue his growing connection with Yui. They overcome their competitive nature and find a sense of understanding in their relationship. The shrine's secrets remain somewhat unknown, and Kenji accepts that some mysteries are best left unsolved."
+      },
+      {
+        "id": 3,
+        "ending": "Kenji focuses on his own personal growth, recognizing that a romantic relationship is not what he needs right now. He forms deep friendships with Akari, Yui, and Haruki and dedicates himself to capturing the beauty of the town through his photography, while staying close to Mei. The abandoned shrine is left alone to nature and peace. "
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "4dccd3df-da1e-11ef-883f-d9a8f24ccb68",
+    "title": "Sakura Serenade: A Tale of Two Melodies",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama",
+      "music",
+      "self-discovery"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura Blossom Cafe",
+        "location": "Local cafe in the town center",
+        "description": "A quaint, cozy cafe adorned with cherry blossom decorations. The air is filled with the aroma of freshly brewed coffee and sweet pastries. Sunlight streams through the large windows, creating a warm and inviting atmosphere.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "Harmony High School Music Room",
+        "location": "Music room in Harmony High School",
+        "description": "A large room filled with various musical instruments, sheet music scattered on the desks and shelves, and the echoes of past melodies. The room is a bit messy, but it vibrates with creativity and musical passion.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "Summer Festival Stage",
+        "location": "Outdoor stage at the summer festival",
+        "description": "A vibrant stage set up amidst a bustling summer festival. Lanterns illuminate the area, and the sound of cheering crowds mixes with the lively festival music. The scent of street food fills the air.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "Riverside Park",
+        "location": "Park along the river",
+        "description": "A peaceful park by the river with willow trees and blooming flowers. Couples walk hand in hand, and the sounds of flowing water and gentle breezes create a serene setting.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "School Rooftop",
+        "location": "Rooftop of Harmony High School",
+        "description": "A quiet place overlooking the school and town. It offers a calming escape from the hustle and bustle of daily life, with a gentle breeze and the sound of distant conversations.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A transfer student with a hidden musical talent. He prefers to keep to himself and is initially shy but has a strong passion for music.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Short, messy black hair",
+          "Brown eyes",
+          "Often seen wearing a pair of headphones around his neck"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Aika",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Childhood friend/Love interest",
+        "background": "Haruki's childhood friend, a cheerful and popular girl who loves to sing. She is the leader of the school's music club and is always encouraging others.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Long, vibrant pink hair often tied in a ponytail",
+          "Bright green eyes",
+          "Usually wears a cute hairpin and a smile"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Ren",
+        "last_name": "Kato",
+        "species": "Human",
+        "age": "18",
+        "gender": "Male",
+        "role": "Rival/Friend",
+        "background": "A talented musician and pianist who is initially portrayed as a rival to Haruki, but they eventually become friends. He is aloof and competitive, but secretly kind.",
+        "place_of_birth": "Osaka",
+        "physical_appearance": [
+          "Cool silver hair",
+          "Piercing blue eyes",
+          "Always wears a serious expression"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Yui",
+        "last_name": "Suzuki",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "Supportive Friend",
+        "background": "A shy but kind girl who is a member of the music club. She's a gifted violinist and a loyal friend to Aika. She admires Haruki's musical abilities and encourages him to share his talent.",
+        "place_of_birth": "Nagoya",
+        "physical_appearance": [
+          "Short, brown hair",
+          "Large, gentle eyes",
+          "Often seen with a violin case"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Kaito",
+        "last_name": "Yamamoto",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Comic Relief/Best Friend",
+        "background": "Haruki\u2019s classmate and best friend. He is outgoing and humorous. He provides much-needed comic relief and offers moral support to Haruki as he navigates his friendships and musical journey. ",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Bright orange hair",
+          "Mischievous brown eyes",
+          "Often wears bright and colorful clothes"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki, a shy transfer student with a passion for music, arrives in a new town and meets Aika, a cheerful singer who leads the school's music club. As Haruki navigates new friendships and rivalries with other talented musicians like Ren, he discovers the power of music to connect people and heal past wounds. Through a series of heartfelt moments, comical encounters, and musical performances, Haruki and Aika must uncover their true feelings for each other while pursuing their musical dreams.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki arrives at Harmony High and meets Aika in the music room. He reluctantly joins the music club and begins discovering his hidden musical talents while navigating the challenges of being a transfer student.",
+        "character_ids": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "scene_ids": [
+          2,
+          1
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Haruki's talent clashes with Ren, leading to a musical rivalry. The music club prepares for the Summer Festival performance, and Aika encourages Haruki to overcome his shyness and showcase his abilities.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "scene_ids": [
+          2,
+          3
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "The story delves into the past of Haruki and Aika, exploring their childhood connection and what brought them to where they are today. The dynamics among the characters shift as the musical competition heats up and unexpected secrets are revealed.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          4,
+          5
+        ]
+      },
+      {
+        "chapter": 4,
+        "synopsis": "Haruki and Aika face emotional and musical challenges. They reconcile their feelings while preparing for the final musical performance. The story culminates with a heartfelt performance that decides their future and reveals their true feelings. ",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "beginning": "The train screeched to a halt, and Haruki stepped onto the platform, a mixture of anticipation and apprehension swirling within him. Harmony High loomed in the distance, its cherry blossom trees swaying gently in the breeze. He gripped his worn guitar case, a silent promise to himself to try and embrace his new beginning.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki and Aika confess their love after a successful performance at the festival. They pursue their musical dreams together, becoming renowned musicians and sharing their journey with the world."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki and Aika's relationship blossoms, but they decide to take separate paths to pursue their music, agreeing to reunite one day with each other, stronger and more accomplished."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki chooses to focus on his personal growth and self-discovery. He continues to nurture his talent in music, finding solace and success in his solo performances, while remaining good friends with Aika and the rest of the club."
+      },
+      {
+        "id": 4,
+        "ending": "Haruki and Ren form an alliance to challenge the music scene and gain recognition. Aika watches their journey, understanding their passion for music, choosing a career focused on helping other musicians."
+      },
+      {
+        "id": 5,
+        "ending": "Haruki returns to his hometown, leaving the music club behind but carrying the friendships and lessons he gained with him, and using his newly found confidence to move forward in his life. He maintains a long distance relationship with Aika, until he is ready to come back."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "ba713b66-da21-11ef-a260-d9a8f24ccb68",
+    "title": "Sakura Dreams & Electric Streams",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama",
+      "slice-of-life",
+      "friendship"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura High Rooftop",
+        "location": "Sakura High School",
+        "description": "The rooftop of Sakura High, a place of quiet solitude. Cherry blossoms often drift here during spring, painting the sky in soft pink hues. It's furnished with a few benches and a weathered radio, offering a view of the city.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "Akihabara Arcade",
+        "location": "Akihabara District",
+        "description": "A vibrant, noisy arcade in the heart of Akihabara. The air is filled with the sounds of classic arcade games and the excited chatter of players. Neon lights cast a colorful glow on the crowds.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "Cozy Cat Cafe",
+        "location": "A quiet corner of Tokyo",
+        "description": "A small, charming cat cafe with a warm and inviting atmosphere. Soft jazz music plays in the background, and several cats lounge around, purring and playing. The smell of freshly brewed coffee and pastries fills the air.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "Sumida River Park",
+        "location": "Along the Sumida River",
+        "description": "A tranquil park alongside the Sumida River, offering a peaceful escape from the city bustle. Benches line the riverbank, and the park is adorned with trees and flowers, perfect for a relaxing afternoon stroll.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "Fireworks Festival Stage",
+        "location": "Riverside Event Area",
+        "description": "A large stage set up for the annual summer fireworks festival. The area is filled with food stalls and people eager to enjoy the spectacular show. Lanterns and colorful banners decorate the area, creating a festive atmosphere.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A somewhat introverted student with a hidden passion for writing and a love for the simple things in life. He often feels like an observer, but yearns for deeper connections.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Short black hair that often falls into his eyes",
+          "Slightly built",
+          "Wears simple casual clothing"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Aiko",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Childhood friend/Love interest",
+        "background": "Haruki\u2019s childhood friend, bright and energetic. She's a member of the school's kendo club and is known for her cheerful disposition, but also has a hidden sensitive side.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Long brown hair tied in a ponytail",
+          "Athletic build",
+          "Always wears a hairclip"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Ren",
+        "last_name": "Kurosawa",
+        "species": "Human",
+        "age": "18",
+        "gender": "Male",
+        "role": "Rival/Friend",
+        "background": "A charismatic and popular student with a talent for music. He appears to be the perfect student, but struggles with internal pressure. He's often seen practicing his guitar in secluded areas.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Slightly messy blond hair",
+          "Tall and handsome",
+          "Always wears a pair of headphones around his neck"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Yui",
+        "last_name": "Kimura",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "Support character/Friend",
+        "background": "A shy but incredibly talented artist. She's passionate about drawing and spends most of her free time in the art club. She has a small collection of cute cat plushies.",
+        "place_of_birth": "Osaka",
+        "physical_appearance": [
+          "Short purple hair",
+          "Petite",
+          "Often carries a sketchbook"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Kenji",
+        "last_name": "Okamoto",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Comedic relief",
+        "background": "A boisterous and loyal friend of Haruki. He is obsessed with all things technology and is always eager to play the latest games, often dragging Haruki into his adventures.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Spiky brown hair",
+          "Slightly overweight",
+          "Wears bright clothing with game characters"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki, an introverted high school student, finds his ordinary life taking a turn when he starts noticing the vibrant lives of those around him. His childhood friend, Aiko, struggles to balance her kendo aspirations with her feelings for Haruki. The enigmatic Ren, a talented musician, challenges his understanding of passion and dedication, while the shy artist Yui encourages him to express himself. Amidst school life and bustling cityscapes, Haruki navigates the complexities of friendship, love, and self-discovery, all while trying to find his own voice. Each character is navigating their personal trials, intertwining their paths with Haruki\u2019s, and impacting the course of his personal growth and relationships.",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki begins his new school year, feeling like nothing has changed. He spends most of his time observing, until Aiko drags him to the school rooftop to 'get some fresh air'. They reacquaint after summer break, setting the stage for their dynamic.",
+        "character_ids": [
+          1,
+          2
+        ],
+        "scene_ids": [
+          1
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Haruki bumps into Ren during lunch, discovering Ren's talent in music. They start developing an unexpected rivalry-turned-friendship, with Ren inspiring Haruki to step outside his comfort zone.",
+        "character_ids": [
+          1,
+          3
+        ],
+        "scene_ids": [
+          1
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": " Haruki, Aiko and Kenji visit Akihabara for Kenji's new game. Haruki accidentally meets Yui, whose shy nature piques his interest. The group spends the day together, forming new bonds.",
+        "character_ids": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "scene_ids": [
+          2
+        ]
+      },
+      {
+        "chapter": 4,
+        "synopsis": "Yui invites Haruki to the cat cafe. He discovers her hidden artistic talents and starts helping her express her feelings through her art, bonding further.",
+        "character_ids": [
+          1,
+          4
+        ],
+        "scene_ids": [
+          3
+        ]
+      },
+      {
+        "chapter": 5,
+        "synopsis": "Haruki and Aiko spend a day in the Sumida River Park discussing their feelings about their lives and futures. This leads to an important turning point in their relationship.",
+        "character_ids": [
+          1,
+          2
+        ],
+        "scene_ids": [
+          4
+        ]
+      },
+      {
+        "chapter": 6,
+        "synopsis": "The Summer Fireworks Festival arrives. All the characters gather at the festival, sharing stories and creating unforgettable memories. Haruki reflects on all the changes that happened to him through the year.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          5
+        ]
+      },
+      {
+        "chapter": 7,
+        "synopsis": "Haruki has a self reflection on the events and decides what he wants for the future. He will have to make a choice about his path, and his relationships. His final choice sets the course for the game ending.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "scene_ids": [
+          1
+        ]
+      }
+    ],
+    "beginning": "The gentle breeze carried the scent of cherry blossoms as I made my way to the school rooftop. It was just like any other spring day at Sakura High, or so I thought. Little did I know, that would be the day my usual quiet world would start to bloom with colors I had never anticipated.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki chooses to focus on his writing, dedicating his life to capturing the stories of those around him. He remains close friends with everyone, cherishing the connections he made, but never pursues a romantic relationship."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki confesses his feelings to Aiko, and they start dating. He learns to embrace his feelings and is inspired by his connection with her. He continues to support her Kendo dreams as he pursues his own passions."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki finds his muse in Yui and their bond blossoms into love. They work together, with his writing complementing her art. Together they create their own world, full of art and stories."
+      },
+      {
+        "id": 4,
+        "ending": "Haruki takes a leap of faith and follows Ren's footsteps in music, choosing to express himself through songs. While he doesn't pursue a romantic interest, he finds a sense of belonging within the music scene and finds deep friendship with Ren."
+      },
+      {
+        "id": 5,
+        "ending": "Haruki realizes he needs time to discover himself and his passions. He parts ways with his friends to explore the world, choosing to discover his place and returning after a long time with a new sense of self."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
+},
+{
+    "id": "d759c52c-db98-11ef-abbf-d14d3be52317",
+    "title": "Sakura Melody: Echoes of the Heart",
+    "genre": "Japanese Visual Novel",
+    "themes": [
+      "romance",
+      "comedy",
+      "drama",
+      "friendship",
+      "self-discovery"
+    ],
+    "main_scenes": [
+      {
+        "id": 1,
+        "title": "Sakura High School Rooftop",
+        "location": "School Rooftop",
+        "description": "A secluded rooftop with a panoramic view of the city. Sakura trees bloom nearby, scattering petals with every breeze. It\u2019s a place for secret talks and quiet reflection.",
+        "image": null
+      },
+      {
+        "id": 2,
+        "title": "Hanabi Cafe",
+        "location": "Downtown Shopping District",
+        "description": "A cozy cafe with a warm atmosphere, known for its delicious pastries and specialty teas. Perfect for dates or casual hangouts with friends.",
+        "image": null
+      },
+      {
+        "id": 3,
+        "title": "Summer Festival Grounds",
+        "location": "Local Park",
+        "description": "A bustling and vibrant fairground during the summer festival. Filled with food stalls, game booths, and the dazzling sight of fireworks overhead.",
+        "image": null
+      },
+      {
+        "id": 4,
+        "title": "Library Archives",
+        "location": "School Library",
+        "description": "Dusty and quiet, the archives are filled with old books and forgotten records. It's a place for research, but also hiding from the noisy school.",
+        "image": null
+      },
+      {
+        "id": 5,
+        "title": "Kiyomi Riverbank",
+        "location": "Riverbank outside the City",
+        "description": "A peaceful spot by the Kiyomi River. The soft murmur of the water and the surrounding nature provides a serene backdrop for quiet moments.",
+        "image": null
+      },
+      {
+        "id": 6,
+        "title": "Music Club Room",
+        "location": "School Club Room",
+        "description": "A small but cozy room, filled with instruments, music sheets, and posters of the school band. A place of creativity and music practice",
+        "image": null
+      },
+      {
+        "id": 7,
+        "title": "Train Station Platform",
+        "location": "Train Station",
+        "description": "A bustling train station, with the clamor of arriving and departing trains. A place of farewells and new beginnings.",
+        "image": null
+      },
+      {
+        "id": 8,
+        "title": "Kiyomi Shrine",
+        "location": "On a hill overlooking the city",
+        "description": "An ancient shrine with a beautiful Torii Gate. Known as a place for reflection and wishes.",
+        "image": null
+      },
+      {
+        "id": 9,
+        "title": "The Arcade",
+        "location": "Downtown Arcade",
+        "description": "A flashy and noisy arcade with flashing lights and retro games. A place for fun competition and casual hangs.",
+        "image": null
+      },
+      {
+        "id": 10,
+        "title": "Rooftop Apartment Balcony",
+        "location": "Apartment Building Rooftop",
+        "description": "A small balcony, overlooking the city. A personal and intimate place for late night conversations.",
+        "image": null
+      }
+    ],
+    "main_characters": [
+      {
+        "id": 1,
+        "first_name": "Haruki",
+        "last_name": "Sato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "Protagonist",
+        "background": "A transfer student with a hidden artistic talent, he's trying to find his place in a new school and town.",
+        "place_of_birth": "Kyoto",
+        "physical_appearance": [
+          "Short, messy dark hair",
+          "Warm brown eyes",
+          "Often wears a casual jacket"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 2,
+        "first_name": "Aiko",
+        "last_name": "Tanaka",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "Childhood Friend",
+        "background": "Haruki\u2019s childhood friend, known for her cheerful personality and competitive spirit. She dreams of becoming a professional athlete.",
+        "place_of_birth": "Tokyo",
+        "physical_appearance": [
+          "Long, vibrant pink hair tied in a ponytail",
+          "Bright green eyes",
+          "Always wears her favorite gym shoes"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 3,
+        "first_name": "Mei",
+        "last_name": "Yamamoto",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "Quiet Artist",
+        "background": "A talented but introverted artist, she expresses her feelings through her paintings. She struggles with social anxiety.",
+        "place_of_birth": "Kobe",
+        "physical_appearance": [
+          "Short, light-brown bob cut",
+          "Soft blue eyes",
+          "Often carries a sketchbook"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 4,
+        "first_name": "Kenji",
+        "last_name": "Nakamura",
+        "species": "Human",
+        "age": "18",
+        "gender": "Male",
+        "role": "Cool Senpai",
+        "background": "The cool and charismatic leader of the school\u2019s music club, he\u2019s known for his skills on the guitar. He secretly struggles with his own self-doubt.",
+        "place_of_birth": "Osaka",
+        "physical_appearance": [
+          "Longer, black styled hair",
+          "Sharp grey eyes",
+          "Usually seen wearing a black band t-shirt"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 5,
+        "first_name": "Yumi",
+        "last_name": "Kato",
+        "species": "Human",
+        "age": "17",
+        "gender": "Female",
+        "role": "The Class Representative",
+        "background": "The class rep, incredibly organized and responsible. She hides a passion for writing poetry.",
+        "place_of_birth": "Nagoya",
+        "physical_appearance": [
+          "Neatly tied up black hair",
+          "Calm brown eyes",
+          "Always carrying a notebook"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 6,
+        "first_name": "Ryo",
+        "last_name": "Ito",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "The Joker",
+        "background": "A fun-loving and energetic classmate, always up for a laugh and a good time. Secretly, he is also very loyal and supportive",
+        "place_of_birth": "Fukuoka",
+        "physical_appearance": [
+          "Spiky blonde hair",
+          "Mischievous blue eyes",
+          "Always seen with a playful grin"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 7,
+        "first_name": "Sakura",
+        "last_name": "Kojima",
+        "species": "Human",
+        "age": "16",
+        "gender": "Female",
+        "role": "The Enigmatic Girl",
+        "background": "A mysterious girl who keeps to herself. She seems to be always in the right place at the right time.",
+        "place_of_birth": "Hokkaido",
+        "physical_appearance": [
+          "Long, flowing, dark purple hair",
+          "Dazzling violet eyes",
+          "Often seen with a quiet smile"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 8,
+        "first_name": "Takashi",
+        "last_name": "Watanabe",
+        "species": "Human",
+        "age": "18",
+        "gender": "Male",
+        "role": "The Rival",
+        "background": "A talented artist and Kenji's rival. He is determined to outperform everyone but deep down he longs for a real connection.",
+        "place_of_birth": "Hiroshima",
+        "physical_appearance": [
+          "Long dark-brown hair tied into a ponytail",
+          "Intense green eyes",
+          "Always seen carrying a sketchbook"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 9,
+        "first_name": "Hanako",
+        "last_name": "Suzuki",
+        "species": "Human",
+        "age": "Unknown, appears younger",
+        "gender": "Female",
+        "role": "The Guardian Spirit",
+        "background": "A mysterious spirit tied to the Kiyomi Shrine. She watches over the town and its inhabitants.",
+        "place_of_birth": "Unknown",
+        "physical_appearance": [
+          "Long white hair",
+          "Glowing golden eyes",
+          "Often seen wearing a white kimono"
+        ],
+        "image": null,
+        "original_image": null
+      },
+      {
+        "id": 10,
+        "first_name": "Taro",
+        "last_name": "Hayashi",
+        "species": "Human",
+        "age": "17",
+        "gender": "Male",
+        "role": "The Loyal Friend",
+        "background": "Haruki's first friend in the new town, they share a love of manga and games. A true and constant support to all.",
+        "place_of_birth": "Yokohama",
+        "physical_appearance": [
+          "Short, dark hair",
+          "Friendly brown eyes",
+          "Always seen wearing manga merchandise"
+        ],
+        "image": null,
+        "original_image": null
+      }
+    ],
+    "synopsis": "Haruki Sato, a transfer student with a hidden artistic talent, arrives in a new town, hoping for a fresh start. As he navigates his new life, he encounters a variety of unique individuals. His childhood friend, Aiko, sparks a sense of nostalgia and friendly competition. He's captivated by the quiet mystery of artist Mei and finds camaraderie with the cool leader of the music club, Kenji. Amidst school activities, local festivals, and late-night conversations, Haruki forms deep bonds with his new friends. However, unspoken feelings and long-held secrets bubble to the surface, threatening to unravel the delicate balance of their friendships and romance. Will Haruki find his voice, express his true feelings, and forge meaningful connections, or will his unspoken words haunt him forever?",
+    "chapter_synopses": [
+      {
+        "chapter": 1,
+        "synopsis": "Haruki transfers to Sakura High and meets Aiko, his childhood friend. He explores the school and town, setting the stage for new relationships and introduces the main cast of characters.",
+        "character_ids": [
+          1,
+          2,
+          6,
+          10
+        ],
+        "scene_ids": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 2,
+        "synopsis": "Haruki encounters Mei during art class and notices her incredible talent. Aiko helps Haruki join the school music club and they meet Kenji.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          6,
+          10
+        ],
+        "scene_ids": [
+          6,
+          4
+        ]
+      },
+      {
+        "chapter": 3,
+        "synopsis": "The music club begins practicing for the summer festival and Haruki is asked to help with painting the school\u2019s banners. Sparks fly as he gets to know his new friends better. He discovers new sides to the reserved class rep, Yumi.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          10
+        ],
+        "scene_ids": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 4,
+        "synopsis": "The Summer Festival is in full swing. Haruki grows closer to Mei and Aiko as they spend time together and learn to understand each other. He also has his first encounter with the mysterious Sakura.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          6,
+          7,
+          10
+        ],
+        "scene_ids": [
+          3,
+          9
+        ]
+      },
+      {
+        "chapter": 5,
+        "synopsis": "Haruki delves deeper into Kenji's personal struggles, and learns more about the mysterious Takashi, Kenji's rival. Yumi confides in Haruki about her own passions.",
+        "character_ids": [
+          1,
+          4,
+          5,
+          8
+        ],
+        "scene_ids": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 6,
+        "synopsis": "The group decides to visit the Kiyomi Shrine. Haruki encounters the guardian spirit, Hanako, and learns secrets about the town's history. The group begins to confront their feelings.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9
+        ],
+        "scene_ids": [
+          8,
+          5
+        ]
+      },
+      {
+        "chapter": 7,
+        "synopsis": "Haruki struggles with the choices he has to make. Past and present feelings come to a head and tensions are high amongst the group. They must all choose what paths they will follow.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10
+        ],
+        "scene_ids": [
+          10,
+          2
+        ]
+      },
+      {
+        "chapter": 8,
+        "synopsis": "The story reaches its climax, as Haruki decides on which path he wants to take. The endings vary depending on the choices made throughout the story.",
+        "character_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "scene_ids": [
+          5,
+          7
+        ]
+      }
+    ],
+    "beginning": "The train doors slid open with a mechanical sigh, releasing Haruki into the bustling station of his new home. The air hung thick with the smell of ramen and anticipation. He took a deep breath, the scent of cherry blossoms faint on the breeze, and stepped out onto the platform. The large red kanji for Sakura High School dominated the horizon, a beacon marking a new chapter in his life. Today, he would meet his new classmates, explore a new town, and maybe\u2026 finally find his place.",
+    "endings": [
+      {
+        "id": 1,
+        "ending": "Haruki confesses his feelings to Aiko, and they begin a romantic relationship, balancing their dreams and challenges. They train together for Aiko\u2019s sports career, and Haruki continues his art while supporting her."
+      },
+      {
+        "id": 2,
+        "ending": "Haruki and Mei overcome their fears and start a romance where they inspire each other with art. They create a series of collaborative pieces that receive public acclaim."
+      },
+      {
+        "id": 3,
+        "ending": "Haruki chooses to focus on his music with Kenji, and he dedicates his time to supporting his friend and helping the music club flourish. Kenji becomes an accomplished musician and Haruki his loyal manager."
+      },
+      {
+        "id": 4,
+        "ending": "Haruki chooses not to pursue romantic relationships, instead he helps all his friends in their chosen paths. He becomes a respected and reliable person in the community, making sure everyone is supported."
+      },
+      {
+        "id": 5,
+        "ending": "Haruki leaves town to chase his own artistic dream, leaving behind the group of friends. He sends postcards and letters every now and then but the once close friendships slowly fade into the background."
+      }
+    ],
+    "generated_by": "gemini-2.0-flash-exp",
+    "approach": "proposed"
 }]
